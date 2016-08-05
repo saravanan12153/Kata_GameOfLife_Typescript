@@ -5,7 +5,7 @@ src/*/obj/
 src/packages/
 *.suo
 src/buildreports/
-src/node_modules/
+src/*/node_modules/
 src/test-results.xml
 *.user
 src/bin/
