@@ -8,7 +8,8 @@
   },
   "files": [
     "./App/app.ts",
-    "typings/index.d.ts"
+    "typings/index.d.ts",
+    "typings/globals/jasmine/index.d.ts"
   ],
   "compileOnSave": true
 }
