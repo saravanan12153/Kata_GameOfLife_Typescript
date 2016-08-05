@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_GameOfLife_Typescript", "Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript.csproj", "{B3721D35-F7CC-4CE8-8D00-C65011FADF7E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8503D97C-E477-4189-9F7F-43236D9B3872}"
+	ProjectSection(SolutionItems) = preProject
+		..\docs\Instructions.pdf = ..\docs\Instructions.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
