@@ -1,0 +1,11 @@
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.dll.config
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.dll
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.pdb
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\obj\Debug\Kata_GameOfLife_Typescript.csprojResolveAssemblyReference.cache
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\obj\Debug\Kata_GameOfLife_Typescript.dll
+F:\Systems\Practice\Kata_GameOfLife_Typescript\Kata_GameOfLife_Typescript\obj\Debug\Kata_GameOfLife_Typescript.pdb
+F:\Systems\Practice\Kata_GameOfLife_Typescript\src\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.dll.config
+F:\Systems\Practice\Kata_GameOfLife_Typescript\src\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.dll
+F:\Systems\Practice\Kata_GameOfLife_Typescript\src\Kata_GameOfLife_Typescript\bin\Kata_GameOfLife_Typescript.pdb
+F:\Systems\Practice\Kata_GameOfLife_Typescript\src\Kata_GameOfLife_Typescript\obj\Debug\Kata_GameOfLife_Typescript.dll
+F:\Systems\Practice\Kata_GameOfLife_Typescript\src\Kata_GameOfLife_Typescript\obj\Debug\Kata_GameOfLife_Typescript.pdb
